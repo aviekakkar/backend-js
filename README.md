@@ -1,4 +1,4 @@
-# backend-js challenge
+# backend-js with @polkadot.js 
 
 Use Polkadot-JS to write a command line utility that displays information about the latest block on Polkadot..
 
