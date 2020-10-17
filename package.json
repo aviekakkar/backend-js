@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "a command line utility that displays information about the latest block on Kusama/Polkadot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aviekakkar/backend-js.git"
+  },
+  "keywords": [
+    "polkadot",
+    "kusama",
+    "commandlineutility"
+  ],
+  "author": "Avie Kakkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aviekakkar/backend-js/issues"
+  },
+  "homepage": "https://github.com/aviekakkar/backend-js#readme",
+  "dependencies": {
+    "@polkadot/api": "^2.2.1"
+  }
+}

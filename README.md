@@ -1,6 +1,13 @@
-# backend-js
+# backend-js challenge
 
-Use Polkadot-JS to write a command line utility that displays information about the latest block on Kusama, Polkadot or any other Substrate-based chain. Bonus: include an option to search for a block by number (height) and/or hash.
+Use Polkadot-JS to write a command line utility that displays information about the latest block on Polkadot..
+
+# Usage
+`npm install`
+`node polka.js` - will display information until exited (control-c).
+
+Takes an optional argument for number of blocks to track. 
+'node polka.js 5' - will display information for the next 5 blocks on polkadot
 
 ## Resources
 - [Polkadot-JS API](https://polkadot.js.org/api/start/)
