@@ -7,7 +7,7 @@ Use Polkadot-JS to write a command line utility that displays information about 
 `node polka.js` - will display information until exited (control-c).
 
 Takes an optional argument for number of blocks to track.   
-`node polka.js N' - will display information for the next 'N' blocks
+`node polka.js N` - will display information for the next 'N' blocks  
 example: `node polka.js 5` - will display information for the next '5' blocks
 
 ## Resources
